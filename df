@@ -1,0 +1,411 @@
+[33mcommit 64623dd74e65e984463db2b0c35e248ccf01a44b[m[33m ([m[1;36mHEAD -> [m[1;32mtreklewis[m[33m)[m
+Author: treklewis <trek.lewis@gmail.com>
+Date:   Wed Sep 21 14:47:51 2022 -0600
+
+    add my new hello.py
+
+[33mcommit 3726f94b8037fd6184978e7951d128b15dc6e69d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 162b025 6e967f4
+Author: chingtong <99038882+chingtong@users.noreply.github.com>
+Date:   Tue Sep 20 23:36:22 2022 -0600
+
+    Merge pull request #5 from chingtong/ching-tong/grammar-check
+    
+    Update README.md
+
+[33mcommit 6e967f49909fbb84b10ef43f7c3d447dd91027d2[m
+Author: chingtong <99038882+chingtong@users.noreply.github.com>
+Date:   Tue Sep 20 23:36:00 2022 -0600
+
+    Update README.md
+    
+    Updating ReadMe while running through content.
+
+[33mcommit 162b02519d39d640b126bb44934625faee4273f5[m
+Merge: 2a657e5 306f3c9
+Author: chingtong <99038882+chingtong@users.noreply.github.com>
+Date:   Tue Sep 20 14:25:16 2022 -0400
+
+    Merge pull request #4 from chingtong/kylelonghurst/tutorial-updates
+    
+    Intro, Prereqs, Step 1, and Step 2
+
+[33mcommit 306f3c931fbf01c7782ecb5fecc2cc7688c63c64[m
+Author: Kyle Longhurst <kyle.longhurst@parivedasolutions.com>
+Date:   Tue Sep 20 11:53:33 2022 -0600
+
+    Wording update to add new team members
+
+[33mcommit 469d224d6a1825bd5a6b891dca051857b49ef165[m
+Author: Kyle Longhurst <kyle.longhurst@parivedasolutions.com>
+Date:   Tue Sep 20 11:47:30 2022 -0600
+
+    small formatting changes
+
+[33mcommit 6e8650551cd9c611c8fad1080e9c8f1bb6377e16[m
+Author: Kyle Longhurst <kyle.longhurst@parivedasolutions.com>
+Date:   Tue Sep 20 11:45:36 2022 -0600
+
+    fix typo
+
+[33mcommit 17decbb4946086a008e6079f6e7c0ca6d0c973be[m
+Author: Kyle Longhurst <kyle.longhurst@parivedasolutions.com>
+Date:   Tue Sep 20 11:34:52 2022 -0600
+
+    Updated step numbering and some wording in step 3
+
+[33mcommit 988f2bf9efbba3992be7d45fe85290ce27ece248[m
+Author: Kyle Longhurst <kyle.longhurst@parivedasolutions.com>
+Date:   Tue Sep 20 11:29:38 2022 -0600
+
+    Update intro, pre-reqs, and step 1 & 2
+
+[33mcommit 39c9a3faca5fde45eaf549682f655b8c15e3b8b4[m
+Author: Kyle Longhurst <kyle.longhurst@parivedasolutions.com>
+Date:   Mon Sep 19 23:11:17 2022 -0600
+
+    prettier formatting updates
+
+[33mcommit 2a657e5eab556a21e77b52a77082acf6fad2ec00[m
+Merge: a0e7597 3991a1a
+Author: chingtong <99038882+chingtong@users.noreply.github.com>
+Date:   Mon Sep 19 22:29:13 2022 -0400
+
+    Merge pull request #3 from chingtong/group-assignment-prep
+    
+    Adding a note about the folder that currently exists
+
+[33mcommit 3991a1af98baaee193d7c72c6ea55ca0e74e3b54[m
+Author: Ching Tong <ching.tong@parivedasolutions.com>
+Date:   Mon Sep 19 22:28:19 2022 -0400
+
+    Adding a note about the folder that currently exists
+
+[33mcommit a0e7597f9aad6320221ad5c614e0c0fdd3d2d345[m
+Merge: c9a6b13 f5104e6
+Author: chingtong <99038882+chingtong@users.noreply.github.com>
+Date:   Mon Sep 19 22:07:52 2022 -0400
+
+    Merge pull request #2 from chingtong/group-assignment-prep
+    
+    Adding more changes to the group assignment
+
+[33mcommit f5104e6fbdd523cf04f647491f4f68248e2d6aba[m
+Author: Ching Tong <ching.tong@parivedasolutions.com>
+Date:   Mon Sep 19 22:07:16 2022 -0400
+
+    finishing up first pass changes to group assignment
+
+[33mcommit 7f233cad70f8aa664c37f6e2e7861c6546d4b0ef[m
+Author: Ching Tong <ching.tong@parivedasolutions.com>
+Date:   Mon Sep 19 21:45:38 2022 -0400
+
+    Adding more changes to the group assignment
+
+[33mcommit c9a6b134de9b93e9bd8a282a7bfa1b39d4f20667[m
+Merge: a760c3a 8e2c478
+Author: chingtong <99038882+chingtong@users.noreply.github.com>
+Date:   Mon Sep 19 14:39:15 2022 -0400
+
+    Merge pull request #1 from chingtong/group-assignment-prep
+    
+    Cleaning up and changing content for more collaborative class material
+
+[33mcommit 8e2c478703f2a03ac84839e3317fb5c3e5b6ee08[m
+Author: Ching Tong <ching.tong@parivedasolutions.com>
+Date:   Mon Sep 19 09:34:58 2022 -0400
+
+    Cleaning up and changing content for more collaborative class material
+
+[33mcommit a760c3aba689d11b42188b5a10a2160d56079c1a[m
+Merge: c70ebaa 10d897f
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Fri Feb 26 11:04:23 2021 -0800
+
+    Merge pull request #29 from nateharker/master
+    
+    add my new script :)
+
+[33mcommit 10d897f9867c1b04fc5592129a822fa4753e4d63[m
+Author: nateharker <70962388+nateharker@users.noreply.github.com>
+Date:   Thu Oct 8 22:44:19 2020 -0600
+
+    add my new script
+
+[33mcommit c70ebaae7a8f36b09eb65ffd646cd78aeb7850b6[m
+Merge: 013d5a0 f0b2317
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Wed Sep 30 21:52:06 2020 -0600
+
+    Merge pull request #22 from Stephen-Example-Org/fav-animal
+    
+    Add goldie locks favorite animal
+
+[33mcommit 013d5a09f22d717b50510470ae7b6537def210d9[m
+Merge: 9bf20d7 da9bfe7
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Sun Sep 27 14:45:51 2020 -0600
+
+    Merge pull request #26 from graysonfattaleh/my-animal
+    
+    send it
+
+[33mcommit 9bf20d7028ff142573323441788cc2c49635090c[m
+Merge: 8420bec 0781e78
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Sun Sep 27 13:56:58 2020 -0600
+
+    Merge pull request #27 from mpixton/my-animal
+    
+    add my new script
+
+[33mcommit 0781e789d94fc7771b332599e2c4776dad773ae8[m
+Author: mpixton <71086131+mpixton@users.noreply.github.com>
+Date:   Fri Sep 25 16:31:51 2020 -0600
+
+    add my new script
+
+[33mcommit 8420becd49acea2d5609d6106512ece7df85e9d4[m
+Merge: e3770af dc592f6
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Fri Sep 25 09:12:36 2020 -0600
+
+    Merge pull request #25 from aldev13/fav-animal
+    
+    Fav animal
+
+[33mcommit e3770af288a4d7e0930a729b3a6a12f1de084b2c[m
+Merge: d65466b b55683d
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Fri Sep 25 09:11:59 2020 -0600
+
+    Merge pull request #21 from jonahduffin/fav-animal-jonah
+    
+    Adds jonah duffin's favorite animal
+
+[33mcommit d65466bd1e1fcd71e5d3766ab2ff9a2d0cea2733[m
+Merge: 829bb23 f932b4c
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Fri Sep 25 09:11:05 2020 -0600
+
+    Merge pull request #23 from Squarerootofpi/patch-1
+    
+    Added Steed's favorite animal
+
+[33mcommit 829bb2388e49ae23efa6a3f86e117108468da952[m
+Merge: 6a3755d 6adca95
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Fri Sep 25 09:10:15 2020 -0600
+
+    Merge pull request #20 from haydenmthomas/fav-animal
+    
+    Added hayden's fav animal
+
+[33mcommit 6a3755d6c51937a94bfb0f86441e67a117cfed56[m
+Merge: 6050e1b 999f30d
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Thu Sep 24 13:52:20 2020 -0400
+
+    Merge pull request #24 from Stephen-Example-Org/fav-animal
+    
+    Add mike tyson' favorite animal
+
+[33mcommit da9bfe7e3cfc6164c691745b3655bc6bd3d7cfe0[m
+Author: graysonfattaleh <71087950+graysonfattaleh@users.noreply.github.com>
+Date:   Thu Sep 24 11:44:04 2020 -0600
+
+    send it
+
+[33mcommit dc592f6db7ef876467d5c1334ca4f0c5365ad0a4[m
+Author: aldev13 <aldev13@gmail.com>
+Date:   Thu Sep 24 11:40:54 2020 -0600
+
+    commit on 'fav-animal
+
+[33mcommit 999f30d81dc37ad7352a9ee7eac10a10c1293f27[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Thu Sep 24 11:38:22 2020 -0600
+
+    Add mike tyson' favorite animal
+
+[33mcommit 81c1d363b778b8173fd377f08d0fe88c6d4cc8f6[m
+Author: aldev13 <aldev13@gmail.com>
+Date:   Thu Sep 24 11:38:16 2020 -0600
+
+    commit on 'fav
+
+[33mcommit f932b4c5dd9b90f880786e534fea4d2c78bb173c[m
+Author: Squarerootofpi <53194917+Squarerootofpi@users.noreply.github.com>
+Date:   Thu Sep 24 11:16:26 2020 -0600
+
+    Added Steed's favorite animal
+
+[33mcommit f0b2317eb289e9bd162e35bcb4f47c692e7777d9[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Thu Sep 24 10:34:17 2020 -0600
+
+    add goldie locks favorite animal
+
+[33mcommit 6050e1bb5714f63b5c735c849781ae493eab6ba9[m
+Merge: a03c2b6 f596002
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Thu Sep 24 11:51:39 2020 -0400
+
+    Merge pull request #19 from Stephen-Example-Org/fav-animal
+
+[33mcommit b55683dc7484792366e475faf807af955b689709[m
+Author: Jonah Duffin <jonahfduffin@gmail.com>
+Date:   Thu Sep 24 09:36:26 2020 -0600
+
+    Adds jonah duffin's favorite animal
+
+[33mcommit 6adca953ba4734d4a45e41c6c3e43bdee3a2c228[m
+Author: haydenmthomas <60405675+haydenmthomas@users.noreply.github.com>
+Date:   Thu Sep 24 09:35:21 2020 -0600
+
+    Added haydens fav animal
+
+[33mcommit f59600213097d93c82a063c6ff1c11f1247ccf5f[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Thu Sep 24 09:35:18 2020 -0600
+
+    Adds prof anderson's favorite animal
+
+[33mcommit a03c2b65d3cc89dccb22f875ce651391f01b0688[m
+Merge: ca5c4bb e85bc53
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Thu Sep 24 10:52:32 2020 -0400
+
+    Merge pull request #16 from Stephen-Example-Org/fav-animal
+    
+    added stephen's favorite animal script
+
+[33mcommit e85bc53c9643bc02c2be0dbc8d4f6b6b547db984[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Thu Sep 24 08:42:30 2020 -0600
+
+    added stephen's favorite animal script
+
+[33mcommit ca5c4bb1fc3436492ca59e45a9554d33aaf5be5d[m
+Author: Kyle Longhurst <kylelonghurst@gmail.com>
+Date:   Thu Sep 24 08:25:07 2020 -0600
+
+    add kyle's favorite animal 🙈 (#11)
+
+[33mcommit 97d7b54ef9674ba8d51b529efac53a13350fbb2d[m
+Author: Kyle Longhurst <kylelonghurst@gmail.com>
+Date:   Thu Sep 24 07:03:20 2020 -0600
+
+    tutorial tweeks (#12)
+
+[33mcommit e757db5cc87a7dddcd387d844874dd2551825e66[m
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Wed Sep 23 23:32:16 2020 -0400
+
+    Spell Check (#14)
+
+[33mcommit 41f71eb76fd31b3fb35b8c31ca2b15c7741bbcaf[m
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Wed Sep 23 22:50:59 2020 -0400
+
+    Remove bonus steps (#13)
+
+[33mcommit 07af7aee347f87f9ecf29ef1d5080061bc5b6f1f[m
+Merge: 038d6bd 7b06be1
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Wed Sep 23 18:44:09 2020 -0400
+
+    adds git playground
+
+[33mcommit 7b06be16377004eb8dfac3916fb737333c960c74[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Wed Sep 23 16:42:54 2020 -0600
+
+    adds git playground
+
+[33mcommit 038d6bdb5f7c139d09f46d2142e6db15d4fb87c7[m
+Merge: f29e56b b1582d4
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Wed Sep 23 18:33:11 2020 -0400
+
+    Adds additional resources
+
+[33mcommit b1582d49324e1077f703e4e1dc549920163fd503[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Wed Sep 23 16:32:15 2020 -0600
+
+    adds other great tutorials
+
+[33mcommit 53768649f66f752b15e4667dbb8c151f0798126d[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Wed Sep 23 16:23:52 2020 -0600
+
+    adds commands used section
+
+[33mcommit f29e56bfcf63e5312fc40413ba512804fcc4bb60[m
+Merge: cc2d20b 355e7c7
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Wed Sep 23 17:15:22 2020 -0400
+
+    More Readme Updates
+
+[33mcommit 355e7c77abc93e4b3d3280a4a1ea26303cd97dec[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Wed Sep 23 15:14:40 2020 -0600
+
+    updates
+
+[33mcommit 70ab8313d6bec59f22dda898dfb30c994f6eabba[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Wed Sep 23 14:40:30 2020 -0600
+
+    move example_script into favorite-animals repository
+
+[33mcommit cc2d20bc890cea41de7953cd7f456e74f3f54781[m
+Merge: 7f5e9c9 8626558
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Wed Sep 23 16:10:31 2020 -0400
+
+    Update Readme with First Tutorial Draft
+
+[33mcommit 862655877063e189701b04a94378088789abf58c[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Wed Sep 23 14:08:35 2020 -0600
+
+    adds example_script for tutorial
+
+[33mcommit 73c64e51e65d3014f4c1617c848dff362832b742[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Tue Sep 22 21:49:45 2020 -0600
+
+    more updates
+
+[33mcommit c6c363e50bfdd1622b43e107330ae87a9abd1f4f[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Tue Sep 22 18:29:52 2020 -0600
+
+    more changes
+
+[33mcommit f2aa291269a4ce34cdfdee778de93cfc0823f687[m
+Author: Stephen Godderidge <stephen.godderidge@parivedasolutions.com>
+Date:   Tue Sep 22 18:29:31 2020 -0600
+
+    new steps
+
+[33mcommit 7f5e9c914fddac25725ce736d2e2f245c71bcd2b[m
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Mon Sep 21 19:47:57 2020 -0400
+
+    Update README.md
+
+[33mcommit 4b54373d047a25b449fb8b7755754c006b429bba[m
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Mon Sep 21 19:44:31 2020 -0400
+
+    Update README.md
+
+[33mcommit 3d3af37e8803a80217f8fc395449ceb0dc5d55e2[m
+Author: Stephen Godderidge <steve.godderidge@gmail.com>
+Date:   Mon Sep 21 19:36:46 2020 -0400
+
+    Initial commit
